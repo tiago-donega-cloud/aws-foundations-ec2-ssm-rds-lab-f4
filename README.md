@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ☁️ AWS EC2, SSM Tunnels & Private RDS Automation Lab
@@ -19,9 +20,8 @@
 
 <div align="center">
 
-[![AWS SSM & Private RDS Architecture](./image/00-aws-ssm-rds-architecture.jpeg)](./video/00-aws-ssm-rds-architecture.mp4)
+https://github.com/user-attachments/assets/0223a20e-6928-4f7e-a533-3d356cdf7605
 
-▶️ **[Watch the Animated Architecture Video (`00-aws-ssm-rds-architecture.mp4`)](./video/00-aws-ssm-rds-architecture.mp4)**
 
 </div>
 
